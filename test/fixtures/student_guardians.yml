@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  guardian: one
+  school: one
+  district: one
+
+two:
+  student: two
+  guardian: two
+  school: two
+  district: two
